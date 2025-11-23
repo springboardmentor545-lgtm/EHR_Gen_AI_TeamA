@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "total_patients": 25,
+    "processing_date": "2025-11-23T12:22:46.943466",
+    "model_used": "Google FLAN-T5",
+    "status": "Complete"
+  },
+  "statistics": {
+    "unique_icd_codes": 10,
+    "avg_age": 54.84,
+    "min_age": 22,
+    "max_age": 81
+  },
+  "accuracy_analysis": {
+    "average_accuracy": 58.41,
+    "median_accuracy": 54.29,
+    "min_accuracy": 54.29,
+    "max_accuracy": 68.57,
+    "std_deviation": 5.52,
+    "high_confidence_count": 0,
+    "high_confidence_percentage": 0.0,
+    "accuracy_distribution": {
+      "95-100%": 0,
+      "90-94.99%": 0,
+      "85-89.99%": 0,
+      "80-84.99%": 0,
+      "<80%": 25
+    }
+  },
+  "files_generated": {
+    "csv_detailed": "batch_results_detailed.csv",
+    "csv_summary": "batch_results_summary.csv",
+    "json_detailed": "batch_results_detailed.json",
+    "json_summary": "batch_results_summary.json",
+    "individual_records": "25 patient files",
+    "visualizations": "analysis_report.png"
+  }
+}
