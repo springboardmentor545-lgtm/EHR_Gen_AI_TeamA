@@ -19,6 +19,9 @@ project-root/
 │   ├── workflow_pipeline.py
 │   ├── evaluation_metrics.py
 ├── notebooks/            # Development notebooks
+├── documents
+│   ├── Presentation
+│   ├── Documenatation
 ├── requirements.txt
 └── README.md
 
