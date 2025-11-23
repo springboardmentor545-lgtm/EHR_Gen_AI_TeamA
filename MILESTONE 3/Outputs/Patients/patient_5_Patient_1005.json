@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1005",
+  "Age": 45,
+  "Gender": "Male",
+  "Symptoms": "neurological symptoms",
+  "ScanResult": "Brain imaging: normal",
+  "ClinicalNote": "The patient is a 45-year-old male with neurological symptoms. Magnetic resonance imaging (MRI) of the brain was normal. The physical exam revealed no abnormalities. The patient will be evaluated for neurological symptoms and a follow-up visit will be scheduled for this patient. The doctor recommends that the patient refrain from strenuous activity for the next 24 hours.",
+  "ICD10Code": "Z00.00",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "follow-up"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:38:06.486479"
+}

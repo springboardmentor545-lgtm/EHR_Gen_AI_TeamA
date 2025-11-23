@@ -1,0 +1,17 @@
+{
+  "PatientName": "Patient_1024",
+  "Age": 60,
+  "Gender": "Male",
+  "Symptoms": "general checkup, routine exam",
+  "ScanResult": "Brain imaging: normal",
+  "ClinicalNote": "The patient is a 60-year-old male with a general checkup, routine exam, and brain imaging. The physical exam findings are normal. The patient will be referred to a pulmonologist for further evaluation and follow-up. He has a history of erectile dysfunction.",
+  "ICD10Code": "Z00.00",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "checkup",
+    "routine exam",
+    "follow-up"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:49:01.848035"
+}

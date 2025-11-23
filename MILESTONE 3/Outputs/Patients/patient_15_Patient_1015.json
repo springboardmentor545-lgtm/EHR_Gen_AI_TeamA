@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1015",
+  "Age": 75,
+  "Gender": "Other",
+  "Symptoms": "respiratory symptoms",
+  "ScanResult": "Radiographic findings documented",
+  "ClinicalNote": "Other Chief Complaint: respiratory symptoms. Imaging: Radiographic findings documented. Physical exam findings. Plan for follow-up. Patient: 75yo, other chief complaint is respiratory symptoms, imaging: radiographic findings, physical exam, assessment, plan for follow up, respiratory symptoms.",
+  "ICD10Code": "R05.9",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "respiratory"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:43:41.064731"
+}

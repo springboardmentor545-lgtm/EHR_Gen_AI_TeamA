@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1004",
+  "Age": 31,
+  "Gender": "Male",
+  "Symptoms": "pain, weakness",
+  "ScanResult": "Chest X-ray completed, awaiting interpretation",
+  "ClinicalNote": "The patient is a 31yo male with a chief complaint of pain and weakness. The chest X-ray has been completed and is awaiting interpretation. The physical exam findings are as follows: a swollen lymph node on the right side of the chest. The patient has a history of chest pain.",
+  "ICD10Code": "R07.9",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "chest pain"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:37:27.407126"
+}

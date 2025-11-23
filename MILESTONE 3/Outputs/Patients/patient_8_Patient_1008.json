@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1008",
+  "Age": 31,
+  "Gender": "Male",
+  "Symptoms": "diabetes, hypertension",
+  "ScanResult": "MRI spine: degenerative changes",
+  "ClinicalNote": "The chief complaint is diabetes and hypertension. The physical exam findings are as follows. The spine is degenerative. The patient will be followed up for follow-up. Follow-up will include a physical exam, MRI spine, and X-rays of the spine for degenerative changes.",
+  "ICD10Code": "I10",
+  "CodeAccuracy%": 96.5,
+  "MatchedKeywords": [
+    "hypertension"
+  ],
+  "Reasoning": "ICD-10 code assigned with 96.5% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:39:42.992039"
+}

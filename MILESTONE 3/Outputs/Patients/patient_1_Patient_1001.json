@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1001",
+  "Age": 56,
+  "Gender": "Male",
+  "Symptoms": "diabetes, fatigue",
+  "ScanResult": "Brain imaging: normal",
+  "ClinicalNote": "Patient: 56yo Male Chief Complaint: diabetes, fatigue Imaging: Brain imaging: normal. Physical exam findings. Assessment. Plan for follow-up. Follow-up will be based on the findings of the physical exam and the results of the neurological exam. The patient will be followed for a minimum of 6 months.",
+  "ICD10Code": "E11.9",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "diabetes"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:33:37.729895"
+}

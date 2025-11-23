@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1010",
+  "Age": 24,
+  "Gender": "Female",
+  "Symptoms": "fever, malaise",
+  "ScanResult": "MRI spine: degenerative changes",
+  "ClinicalNote": "Fever and malaise are the chief complaints of this patient. The MRI spine shows degenerative changes in the spine. The patient is scheduled for follow-up with a physical therapist to determine the cause of the degeneration and to determine if there are any other conditions that may be contributing to her condition.",
+  "ICD10Code": "R50.9",
+  "CodeAccuracy%": 88.5,
+  "MatchedKeywords": [
+    "fever"
+  ],
+  "Reasoning": "ICD-10 code assigned with 88.5% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:40:47.502651"
+}

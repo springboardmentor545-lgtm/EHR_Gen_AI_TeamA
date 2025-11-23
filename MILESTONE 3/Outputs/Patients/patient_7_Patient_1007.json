@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1007",
+  "Age": 25,
+  "Gender": "Female",
+  "Symptoms": "hypertension, chest discomfort",
+  "ScanResult": "Chest X-ray: infiltrates present",
+  "ClinicalNote": "The patient is a 25yo female with chief complaint of hypertension and chest discomfort. Chest X-ray revealed infiltrates in the chest. The patient will be followed up for follow-up with a physical exam and a chest x-ray.",
+  "ICD10Code": "R07.9",
+  "CodeAccuracy%": 96.7,
+  "MatchedKeywords": [
+    "chest discomfort"
+  ],
+  "Reasoning": "ICD-10 code assigned with 96.7% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:39:11.315687"
+}

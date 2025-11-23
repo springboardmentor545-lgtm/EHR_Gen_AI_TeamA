@@ -1,0 +1,16 @@
+{
+  "PatientName": "Patient_1019",
+  "Age": 23,
+  "Gender": "Other",
+  "Symptoms": "musculoskeletal pain",
+  "ScanResult": "Chest X-ray: infiltrates present",
+  "ClinicalNote": "The patient's chief complaint is musculoskeletal pain. The chest X-ray showed infiltrates in the chest. The patient is scheduled for follow-up to determine the cause of the chest x-ray findings and to determine if there are any other causes of the pain.",
+  "ICD10Code": "M79.3",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "pain",
+    "musculoskeletal"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:45:55.465710"
+}

@@ -1,0 +1,16 @@
+{
+  "PatientName": "Patient_1023",
+  "Age": 84,
+  "Gender": "Male",
+  "Symptoms": "pain, swelling, inflammation",
+  "ScanResult": "CT chest with contrast: findings noted",
+  "ClinicalNote": "Pain, swelling, inflammation. Imaging: CT chest with contrast: findings noted. Physical exam: pain, swelling and inflammation. Assessment: plan for follow-up. Follow-up: x-rays, MRI, computed tomography angiography, positron emission Tomography.",
+  "ICD10Code": "R60.9",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "swelling",
+    "inflammation"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:48:26.875290"
+}

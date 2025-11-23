@@ -1,0 +1,16 @@
+{
+  "PatientName": "Patient_1006",
+  "Age": 35,
+  "Gender": "Other",
+  "Symptoms": "cardiovascular symptoms",
+  "ScanResult": "Imaging consistent with clinical presentation",
+  "ClinicalNote": "Other chief complaint: cardiovascular symptoms Imaging: Imaging consistent with clinical presentation. Physical exam findings. Assessment. Plan for follow-up. Patient: 35yo Other Chief Complaint: Cardiovascular symptoms. Imaging: Magnetic Resonance Tomography - computed tomography angiography.",
+  "ICD10Code": "I10",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "vascular",
+    "cardiovascular"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:38:39.390783"
+}

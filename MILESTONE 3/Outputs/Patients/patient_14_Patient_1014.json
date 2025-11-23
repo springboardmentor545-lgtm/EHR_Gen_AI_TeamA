@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1014",
+  "Age": 83,
+  "Gender": "Other",
+  "Symptoms": "diabetes, hypertension",
+  "ScanResult": "Imaging studies completed and reviewed",
+  "ClinicalNote": "Other Chief Complaint: diabetes, hypertension Imaging: Imaging studies completed and reviewed. Physical exam findings. Assessment. Plan for follow-up. Patient is 83yo. Other chief complaint is diabetes and hypertension. Imaging: imaging studies completed, reviewed, and re-evaluated.",
+  "ICD10Code": "I10",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "hypertension"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:43:09.554901"
+}

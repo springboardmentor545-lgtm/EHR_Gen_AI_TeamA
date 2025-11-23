@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1000",
+  "Age": 30,
+  "Gender": "Female",
+  "Symptoms": "gastrointestinal symptoms",
+  "ScanResult": "Chest X-ray: infiltrates present",
+  "ClinicalNote": "The patient is a 30yo female with gastrointestinal symptoms. The chest X-ray showed infiltrates in the chest. The patient will be followed up for follow-up with a chest x-ray to determine the cause of the infiltrates.",
+  "ICD10Code": "R11.0",
+  "CodeAccuracy%": 95.5,
+  "MatchedKeywords": [
+    "gastrointestinal"
+  ],
+  "Reasoning": "ICD-10 code assigned with 95.5% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:32:03.968186"
+}

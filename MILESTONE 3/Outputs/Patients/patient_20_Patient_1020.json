@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1020",
+  "Age": 46,
+  "Gender": "Female",
+  "Symptoms": "headache, fatigue, fever",
+  "ScanResult": "CT scan shows mild pneumonia",
+  "ClinicalNote": "The patient's chief complaint is headache, fatigue, and fever. The patient has a CT scan showing mild pneumonia. The physical exam findings are as follows: a swollen lymph node on the right side of the chest. There is a large amount of fluid in the right thoracic cavity. There are no spleen or lymph nodes in the lungs.",
+  "ICD10Code": "J18.9",
+  "CodeAccuracy%": 96.5,
+  "MatchedKeywords": [
+    "pneumonia"
+  ],
+  "Reasoning": "ICD-10 code assigned with 96.5% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:46:45.443597"
+}
