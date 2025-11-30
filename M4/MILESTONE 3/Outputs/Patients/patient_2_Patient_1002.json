@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1002",
+  "Age": 50,
+  "Gender": "Female",
+  "Symptoms": "fever, cough, fatigue",
+  "ScanResult": "Imaging consistent with clinical presentation",
+  "ClinicalNote": "The patient has a fever, cough, and fatigue. The physical exam findings are consistent with the clinical presentation. The patient is scheduled for follow-up with a physical therapist to determine the cause of the fever and cough and to determine if there is any other cause for the fever.",
+  "ICD10Code": "R50.9",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "fever"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:34:48.790490"
+}

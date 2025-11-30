@@ -1,0 +1,16 @@
+{
+  "PatientName": "Patient_1022",
+  "Age": 71,
+  "Gender": "Other",
+  "Symptoms": "cardiovascular symptoms",
+  "ScanResult": "Chest X-ray completed, awaiting interpretation",
+  "ClinicalNote": "Other Chief Complaint: Cardiovascular symptoms. Imaging: Chest X-ray completed, awaiting interpretation. Plan for follow-up. The patient is 71 years old and has a chief complaint of cardiovascular symptoms. The physical exam findings are as follows: abdominal pain, abdominal tenderness, chest pain, chest x-ray.",
+  "ICD10Code": "R10.9",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "abdominal",
+    "abdominal pain"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:47:54.365491"
+}

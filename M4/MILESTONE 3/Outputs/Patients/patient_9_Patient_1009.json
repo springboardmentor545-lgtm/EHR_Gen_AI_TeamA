@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1009",
+  "Age": 30,
+  "Gender": "Female",
+  "Symptoms": "nausea, abdominal discomfort",
+  "ScanResult": "Diagnostic imaging: no acute process",
+  "ClinicalNote": "The patient is a 30yo female with a chief complaint of nausea and abdominal discomfort. Diagnostic imaging revealed no acute process. The physical exam revealed no abnormalities. The patient will be referred to a pulmonologist for further evaluation. Follow-up will be planned.",
+  "ICD10Code": "R11.0",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "nausea"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:40:14.469693"
+}

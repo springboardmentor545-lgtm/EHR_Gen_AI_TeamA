@@ -1,0 +1,16 @@
+{
+  "PatientName": "Patient_1013",
+  "Age": 22,
+  "Gender": "Other",
+  "Symptoms": "preventive care",
+  "ScanResult": "Imaging studies completed and reviewed",
+  "ClinicalNote": "Patient: 22yo Other Chief Complaint: preventive care Imaging: Imaging studies completed and reviewed. Physical exam findings. Assessment. Plan for follow-up. - Preventive care is a major cause of morbidity and mortality in the United States. The American College of Surgeons (ACS) recommends that preventive health care be included in the American Health Care System (AHS).",
+  "ICD10Code": "Z00.00",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "follow-up",
+    "preventive"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:42:37.900687"
+}

@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1011",
+  "Age": 28,
+  "Gender": "Male",
+  "Symptoms": "chest pain, shortness of breath",
+  "ScanResult": "Radiographic findings documented",
+  "ClinicalNote": "Patient: 28yo Male Chief Complaint: chest pain, shortness of breath Imaging: Radiographic findings documented. Physical exam findings. Assessment. Plan for follow-up. Follow-up will be planned for the following patient(s) based on the results of the physical exam and radiographic findings.",
+  "ICD10Code": "R06.02",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "shortness of breath"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:41:19.458604"
+}

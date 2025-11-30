@@ -1,0 +1,17 @@
+{
+  "PatientName": "Patient_1003",
+  "Age": 64,
+  "Gender": "Male",
+  "Symptoms": "general checkup, routine exam",
+  "ScanResult": "CT abdomen: inconclusive",
+  "ClinicalNote": "The patient is a 64-year-old male with a general checkup and routine exam. The physical exam findings are inconclusive. The patient will undergo a CT abdomen to determine if he has a malignancy. Follow-up will be planned for this patient.",
+  "ICD10Code": "Z00.00",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "checkup",
+    "routine exam",
+    "follow-up"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:36:09.749315"
+}

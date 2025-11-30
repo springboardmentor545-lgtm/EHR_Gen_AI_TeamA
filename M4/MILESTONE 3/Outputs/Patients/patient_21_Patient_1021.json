@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1021",
+  "Age": 48,
+  "Gender": "Other",
+  "Symptoms": "cough, fever",
+  "ScanResult": "CT scan shows mild pneumonia",
+  "ClinicalNote": "Imaging: CT scan shows mild pneumonia. Physical exam findings. Assessment. Plan for follow-up. Patient: 48yo Other Chief Complaint: cough, fever Imaging: C-reactive protein (Cr) 10 ng/mL.",
+  "ICD10Code": "J18.9",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "pneumonia"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:47:15.364991"
+}

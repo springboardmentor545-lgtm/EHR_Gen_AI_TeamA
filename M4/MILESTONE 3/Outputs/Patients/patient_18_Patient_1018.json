@@ -1,0 +1,16 @@
+{
+  "PatientName": "Patient_1018",
+  "Age": 76,
+  "Gender": "Male",
+  "Symptoms": "headache, nausea, dizziness",
+  "ScanResult": "CT abdomen: inconclusive",
+  "ClinicalNote": "Headache, nausea, and dizziness are the chief complaints of this patient. The patient is 76 years of age and has a history of abdominal pain and a CT abdomen. The physical exam was negative for a spleen adenocarcinoma. This patient will be followed for follow-up.",
+  "ICD10Code": "R10.9",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "abdominal",
+    "abdominal pain"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:45:23.005416"
+}

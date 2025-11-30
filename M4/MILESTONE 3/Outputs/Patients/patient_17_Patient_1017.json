@@ -1,0 +1,16 @@
+{
+  "PatientName": "Patient_1017",
+  "Age": 57,
+  "Gender": "Female",
+  "Symptoms": "preventive care",
+  "ScanResult": "Imaging shows mild abnormalities",
+  "ClinicalNote": "Preventive care is the chief complaint of the patient. Imaging shows mild abnormalities. The patient is 57 years of age and has a history of erectile dysfunction. She is scheduled for a follow-up physical exam to determine the cause of the abnormalities and to determine if the condition can be treated.",
+  "ICD10Code": "Z00.00",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "follow-up",
+    "preventive"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:44:46.686573"
+}

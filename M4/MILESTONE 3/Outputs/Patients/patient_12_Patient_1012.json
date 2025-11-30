@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1012",
+  "Age": 60,
+  "Gender": "Female",
+  "Symptoms": "neurological symptoms",
+  "ScanResult": "Imaging shows mild abnormalities",
+  "ClinicalNote": "The patient is a 60-year-old female with neurological symptoms. Imaging shows mild abnormalities on X-ray. The physical exam is normal. The patient will be referred to a neurologist for a neurological evaluation. Follow-up will be discussed with the patient.",
+  "ICD10Code": "Z00.00",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "follow-up"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:41:51.012615"
+}

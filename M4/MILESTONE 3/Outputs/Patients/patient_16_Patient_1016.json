@@ -1,0 +1,15 @@
+{
+  "PatientName": "Patient_1016",
+  "Age": 76,
+  "Gender": "Other",
+  "Symptoms": "shortness of breath, fatigue",
+  "ScanResult": "Imaging studies completed and reviewed",
+  "ClinicalNote": "Other Chief Complaint: shortness of breath, fatigue Imaging: Imaging studies completed and reviewed. Physical exam findings. Assessment. Plan for follow-up. Patient: 76yo. Other chief complaint: Shortness of Breath, Fatigue Imaging: Magnetic Resonance Tomography (MRI).",
+  "ICD10Code": "R06.02",
+  "CodeAccuracy%": 97.0,
+  "MatchedKeywords": [
+    "shortness of breath"
+  ],
+  "Reasoning": "ICD-10 code assigned with 97.0% confidence based on clinical indicators",
+  "ProcessingTimestamp": "2025-11-23T12:44:12.417910"
+}
