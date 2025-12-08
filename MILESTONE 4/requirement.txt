@@ -1,0 +1,16 @@
+streamlit
+requests
+transformers
+torch
+pandas
+numpy
+scikit-learn
+rouge-score
+matplotlib
+seaborn
+tqdm
+sentencepiece
+nltk
+fastapi
+uvicorn
+pydantic
