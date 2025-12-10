@@ -12,7 +12,7 @@ The enhancement process employs **SRCNN (Super-Resolution Convolutional Neural N
 - To evaluate image quality using quantitative metrics (**PSNR**, **SSIM**) and visual comparisons.
 
 ---
-
+```
 ## 🧩 Folder Structure
 milestone_2/
 │
@@ -35,3 +35,4 @@ milestone_2/
 │ └── enhancement_metrics_batch.csv
 │
 └──  README.md # Project documentation (this file)
+```
