@@ -82,4 +82,40 @@
 - **Matplotlib, Seaborn**
 
 ---
+##  **Running the Application Locally**
+
+### **1. Install Frontend Dependencies**
+
+```
+pip install -r Frontend/requirements.txt
+```
+
+### **2. Start the Streamlit Application**
+
+```
+streamlit run Frontend/streamlit_app.py
+```
+
+### **3. Run Cloud Backend (optional)**
+
+```
+cd Cloud
+python cloud_app.py
+```
+
+---
+
+##  **Docker Deployment**
+
+### **Build Docker Image**
+
+```
+docker build -t ehr-ai-system .
+```
+
+### **Run Container**
+
+```
+docker run -p 8080:8080 ehr-ai-system
+```
 
