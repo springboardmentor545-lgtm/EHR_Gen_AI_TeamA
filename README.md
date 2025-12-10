@@ -102,20 +102,3 @@ streamlit run Frontend/streamlit_app.py
 cd Cloud
 python cloud_app.py
 ```
-
----
-
-##  **Docker Deployment**
-
-### **Build Docker Image**
-
-```
-docker build -t ehr-ai-system .
-```
-
-### **Run Container**
-
-```
-docker run -p 8080:8080 ehr-ai-system
-```
-
