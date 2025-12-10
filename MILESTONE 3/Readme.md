@@ -6,7 +6,7 @@ This project generates **clinical notes** using a Hugging Face FLAN-T5 model and
 
 
 ## 📂 Project Structure
-
+```
 
 project-root/
 ├── data/                 # Input files (mapping.csv)
@@ -24,7 +24,7 @@ project-root/
 │   ├── Documenatation
 ├── requirements.txt
 └── README.md
-
+```
 ## ▶️ Run in Google Colab
 
 1. Upload your datasets to Google Drive
