@@ -1,4 +1,4 @@
-##TEAMA_EHR_Gen_AI – AI Powered Enhanced EHR Imaging & Documentation System
+ **TEAMA_EHR_Gen_AI – AI Powered Enhanced EHR Imaging & Documentation System**
 
 
 ## **Milestone 1 – Data Collection & Preprocessing**
